@@ -1,0 +1,12 @@
+C:\Work\Automations\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.csprojAssemblyReference.cache
+C:\Work\Automations\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.csproj.CoreCompileInputs.cache
+C:\Work\Automations\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\bin\Debug\Pega.TestAutomation.GenericUtility.dll
+C:\Work\Automations\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\bin\Debug\Pega.TestAutomation.GenericUtility.pdb
+C:\Work\Automations\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.dll
+C:\Work\Automations\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.pdb
+C:\bug\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.csproj.CoreCompileInputs.cache
+C:\bug\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\bin\Debug\Pega.TestAutomation.GenericUtility.dll
+C:\bug\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\bin\Debug\Pega.TestAutomation.GenericUtility.pdb
+C:\bug\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.dll
+C:\bug\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.pdb
+C:\bug\Pega.TestAutomation\Pega.TestAutomation.GenericUtility\obj\Debug\Pega.TestAutomation.GenericUtility.csprojAssemblyReference.cache
